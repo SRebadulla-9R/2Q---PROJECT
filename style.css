@@ -1,0 +1,238 @@
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+
+.jost-<uniquifier> {
+  font-family: "Jost", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 400 to 700
+
+.pixelify-sans-<uniquifier> {
+  font-family: "Pixelify Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 200 to 800
+
+.dosis-<uniquifier> {
+  font-family: "Dosis", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+body{
+	background-size: 100%;
+	background-color: #E4F1AC;
+}
+
+.container-a{
+	background-color: #E4F1AC;
+	padding:50px;
+	margin-bottom:20px;
+}
+
+.container-b{
+	background-color: #E4F1AC;
+	padding:50px;
+	margin-bottom:20px;
+}
+
+.container-c{
+	background-color: #E4F1AC;
+	padding:50px;
+	margin-bottom:20px;
+}
+
+.container-d{
+	background-color: #E4F1AC;
+	padding:50px;
+	margin-bottom:20px;
+}
+
+.carousel-caption{
+	margin-left:300px;
+	margin-right:300px;
+	 font-family: "Jost", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  size: 40%;
+
+}
+
+.carousel-img{
+	width:600px;
+	height:375px;
+	border:5px;
+	margin: auto;
+	border: 5px;
+	border-color: #F72C5B;
+}
+
+
+
+h3{
+font-family: "Pixelify Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color: #F72C5B;
+}
+
+h4{
+font-family: "Pixelify Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color: #F72C5B;
+}
+
+h1{
+font-family: "Pixelify Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color: #F72C5B;
+  text-align: center;
+  padding: 30px;
+}
+
+p{
+	font-family: "Pixelify Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color: #A7D477;
+}
+
+.header-text{
+	text-align: center;
+}
+
+.bottom-text{
+	text-align: center;
+	margin-bottom:50px;
+	margin-top:10px;
+}
+
+.bottom-text2{
+	text-align: center;
+	margin-bottom:300px;
+	margin-top:10px;
+}
+
+.nav-logo{
+	width:50px;
+}
+
+.about-logo{
+	width: 200px;
+}
+
+
+.about-header{
+	color:white;
+}
+
+.about-text{
+	color:white;
+}
+
+.btn-align{
+	width:125px;
+	font-family:heiti sc;
+}
+
+a {
+font-family: "Pixelify Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+.search-bar{
+	font-family: "Pixelify Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color: #F72C5B;
+}
+
+nav {
+	color: #F72C5B;
+}
+
+.form-texts{
+font-family: "Pixelify Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+	color:#FF748B;
+
+}
+
+.card-header{
+	text-align:center;
+	padding-bottom:5px;
+	padding-left:5px;
+	padding-right:5px;
+
+}
+
+.card-info{
+	 font-family: "Jost", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+	color:white;
+	text-align:center;
+}
+
+.card-btn {
+	margin-top:30px;
+	 font-family: "Jost", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color: white;
+  background-color: #A7D477;
+}
+
+.card-header{
+	color:white;
+}
+
+.card{
+	background-color:#FF748B; 
+	padding:5px;
+	margin:40px;
+	border:5px white;
+}
+
+.card-img-top{
+	width:200px;
+	height:350px;
+	border:5px white;
+}
+
+.recipe-picture{
+	width: 100%;
+	border:5px white;
+}
+
+.recipe-text{
+	color:#FF748B;
+}
+
+.about-header{
+	color:#FF748B;
+}
